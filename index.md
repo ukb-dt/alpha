@@ -1,0 +1,5 @@
+- ?? [Delta](https://www.bbc.com/news/articles/cwy7vrd8k4eo) MarketShare
+- [Frontier](https://en.wikipedia.org/wiki/AlphaFold) Science
+- TPUs
+- APIs
+- YouTubers
